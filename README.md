@@ -1,2 +1,2 @@
-# 2048-In-Python
-Learn how to code the 2048 game in Python with Pygame!
+# 2048 in Python
+Built the 2048 game in Python with Pygame!
